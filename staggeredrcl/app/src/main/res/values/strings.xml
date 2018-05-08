@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">staggeredrcl</string>
+
+    <string name="load_loading_tip">努力加载中</string>
+    <string name="load_failed_tip">点我再试试？</string>
+    <string name="load_end_tip">--end--</string>
+</resources>
